@@ -1,0 +1,6 @@
+CODESOFT-PYTHON PROGRAMMING INTERN
+TASK:03-PASSWORD GENERATOR
+
+This Python code generates customized passwords based on user-selected websites and complexity levels (soft, medium, high). It ensures compliance with site-specific rules, offers personalization, and produces multiple secure password options.
+
+Video Link:https: https://drive.google.com/file/d/1I44zbC9aw0L_3599FaEcG4uwTwggZ2Gk/view?usp=sharing
